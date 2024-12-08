@@ -6,7 +6,7 @@
 /*   By: kmummadi <kmummadi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/17 12:42:37 by kmummadi          #+#    #+#             */
-/*   Updated: 2024/11/17 16:04:20 by kmummadi         ###   ########.fr       */
+/*   Updated: 2024/12/08 10:37:11 by kmummadi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,6 @@
 
 void	ft_putstr(char *str);
 void	ft_putnbr(int nb);
-int	    ft_atoi(char *str);
+int		ft_atoi(char *str);
 
 #endif
